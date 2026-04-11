@@ -33,6 +33,6 @@ valorTotal = parcial1 + parcial2
 
 escreva("Valor total a pagar: R$" + valorTotal)
 
-
+// olá caue
   }
 }
